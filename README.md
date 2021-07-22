@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, my name is Shubham
-#### I am Software Engineer at Amdocs
+#### I am Software Engineer at ServiceNow
 
-- 🔭 I’m currently working on improving my Leetcode Profile :) 
-- 🌱 I’m currently learning AWS 
+- 🔭 I’m currently working on improving my Design Skills :) 
+- 🌱 I’m currently preparing for AWS certification. 
 - 😄 Pronouns: he/him 
 
 Skills: JAVA / SPRING / JS / HTML / CSS
